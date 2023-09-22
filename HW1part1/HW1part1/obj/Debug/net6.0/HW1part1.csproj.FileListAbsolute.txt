@@ -1,0 +1,14 @@
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\bin\Debug\net6.0\HW1part1.exe
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\bin\Debug\net6.0\HW1part1.deps.json
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\bin\Debug\net6.0\HW1part1.runtimeconfig.json
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\bin\Debug\net6.0\HW1part1.dll
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\bin\Debug\net6.0\HW1part1.pdb
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.AssemblyInfoInputs.cache
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.AssemblyInfo.cs
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.csproj.CoreCompileInputs.cache
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.dll
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\refint\HW1part1.dll
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.pdb
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\HW1part1.genruntimeconfig.cache
+C:\Users\Elyah Weiser\source\repos\HW1part1\HW1part1\obj\Debug\net6.0\ref\HW1part1.dll

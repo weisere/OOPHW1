@@ -1,0 +1,16 @@
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\bin\Debug\net6.0-windows\HW1part2.exe
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\bin\Debug\net6.0-windows\HW1part2.deps.json
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\bin\Debug\net6.0-windows\HW1part2.runtimeconfig.json
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\bin\Debug\net6.0-windows\HW1part2.dll
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\bin\Debug\net6.0-windows\HW1part2.pdb
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.Form1.resources
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.csproj.GenerateResource.cache
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.AssemblyInfoInputs.cache
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.AssemblyInfo.cs
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.csproj.CoreCompileInputs.cache
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.dll
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\refint\HW1part2.dll
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.pdb
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\HW1part2.genruntimeconfig.cache
+C:\Users\Elyah Weiser\source\repos\HW1part2\HW1part2\obj\Debug\net6.0-windows\ref\HW1part2.dll
